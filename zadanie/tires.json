@@ -1,0 +1,14 @@
+[
+  {
+    "brand": "Michelin",
+    "diameter": 17.5,
+    "pressure": 2.3,
+    "status": "normal"
+  },
+  {
+    "brand": "Bridgestone",
+    "diameter": 18.0,
+    "pressure": 1.8,
+    "status": "low pressure"
+  }
+]
